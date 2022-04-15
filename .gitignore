@@ -1,0 +1,5 @@
+dist/
+node_modules/
+comments/
+PythonPart/_pycache_
+PythonPart/.idea
