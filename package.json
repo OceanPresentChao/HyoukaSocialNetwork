@@ -12,6 +12,7 @@
   "keywords": [],
   "author": "OceanPresent",
   "dependencies": {
+    "@node-rs/jieba": "^1.6.0",
     "@types/graphlib": "^2.1.8",
     "axios": "^0.26.1",
     "graphlib": "^2.1.8"
