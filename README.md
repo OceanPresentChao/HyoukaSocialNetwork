@@ -43,3 +43,9 @@
 ## 关于后续
 
 后续还做了可视化，还爬了b站上关于《冰菓》的评论提取关键词做了一个词云。可视化使用Vue、Echarts制作。这边因为有文件操作只能跑在node端所以就不在这边传了www
+
+## 更新：
+
+最终成功展示已完成。
+
+[《冰菓》社交网络Demo](https://oceanpresentchao.github.io/HyoukaSocialNetwork/)
